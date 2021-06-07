@@ -1,0 +1,1 @@
+this folder contains a file that have output of uname command
